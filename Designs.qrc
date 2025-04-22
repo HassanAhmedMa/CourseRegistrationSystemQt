@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Course Registration System/Designs/Resources/LoginPageResources/Login.jpg</file>
+    </qresource>
+</RCC>
